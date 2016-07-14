@@ -1,4 +1,4 @@
-package com.jaspreetdhanjan.road;
+package com.jaspreetdhanjan.gol;
 
 import java.awt.*;
 import java.awt.image.*;
